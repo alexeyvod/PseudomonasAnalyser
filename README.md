@@ -1,3 +1,5 @@
+Описание на русском языке расположено ниже
+
 # **Pseudomonas Analyser**
 The Pseudomonas Analyser is a program created to analyze data from whole-genome sequencing of *Pseudomonas aeruginosa* strains in order to determine it’s antigenic structure, flagellar antigen, to identify pathogenicity factors, genes determining the mucoid phenotype of the microorganism, and to determine the INDEL locus of high-resolution.
 ## **Installation:**
