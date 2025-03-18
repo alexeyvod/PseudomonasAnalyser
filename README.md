@@ -17,7 +17,9 @@ The program is launched by unpacking the downloaded archive with the program and
 ## **Result:**
 The results of the analysis of each genome are displayed in a separate line indicating the O- and H-antigenic structure, the identification of pathogenicity factors, and the determination of the genotype by INDEL locus.
 ## **For citation:**
-- Kovalevich A.A., Vodopyanov A.S., Vodopyanov S.O., Temyakova S.U. INDEL-typing of *Pseudomonas aeruginosa* strains (https://obolensk.org/images/journal/2024/9-4/2024-9-4%20p75-81%20Kovalevich.pdf). Bacteriology. 2024; 9(4): 75–81. (In Russian). 'DOI: 10.20953/2500-1027-2024-4-75-81'
+- Kovalevich A.A., Vodopyanov A.S., Vodopyanov S.O., Temyakova S.U. INDEL-typing of *Pseudomonas aeruginosa* strains. Bacteriology. 2024; 9(4): 75–81. (In Russian). 'DOI: 10.20953/2500-1027-2024-4-75-81'
+
+(https://obolensk.org/images/journal/2024/9-4/2024-9-4%20p75-81%20Kovalevich.pdf)
 
 # **Pseudomonas Analyser**
 Программа Pseudomonas Analyser предназначена для анализа данных полногеномного секвенирования штаммов *Pseudomonas aeruginosa* с целью определения антигенной структуры, жгутикового антигена, выявления факторов патогенности, генов определяющих мукоидный фенотип микроорганизма, определения INDEL-локусов с высокой разрешающей способностью.
@@ -37,5 +39,8 @@ The results of the analysis of each genome are displayed in a separate line indi
 Результаты анализа каждого генома отображается в отдельной строке с указанием О- и Н - антигенной структуры, выявления факторов патогенности, определения генотипа по INDEL-локусам.
 
 ## **Для цитирования:**
-- Ковалевич А.А., Водопьянов А.С., Водопьянов С.О., Темякова С.Ю. INDEL-типирование штаммов *Pseudomonas аeruginosa*(https://obolensk.org/images/journal/2024/9-4/2024-9-4%20p75-81%20Kovalevich.pdf). Бактериология. 2024; 9(4): 75–81. 'DOI: 10.20953/2500-1027-2024-4-75-81'.
+- Ковалевич А.А., Водопьянов А.С., Водопьянов С.О., Темякова С.Ю. INDEL-типирование штаммов *Pseudomonas аeruginosa*. Бактериология. 2024; 9(4): 75–81. 'DOI: 10.20953/2500-1027-2024-4-75-81'.
+
+(https://obolensk.org/images/journal/2024/9-4/2024-9-4%20p75-81%20Kovalevich.pdf)
+
 
