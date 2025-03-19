@@ -18,12 +18,22 @@
 <table>
   <tr>
     <td>
-		zzz1
+		## Content
+		* [Pseudomonas Analyser](#info-en)
+		* [Installation](#install-en)
+		* [Program run](#run-en)
+		* [Result](#results-en)
+		* [For citation](#cite-en)
     </td>
   </tr>
   <tr>
     <td>
-      zzz2	  
+      ## Содержание 
+		* [Pseudomonas Analyser](#info-ru)
+		* [Установка](#install-ru)
+		* [Запуск программы](#run-ru)
+		* [Результат](#results-ru)
+		* [Для цитирования](#cite-ru)  
     </td>
   </tr>
 </table>
