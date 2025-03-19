@@ -1,27 +1,29 @@
 Описание на русском языке расположено ниже
 
 
+## Content
+* [Pseudomonas Analyser](#info-en)
+* [Installation](#install-en)
+* [Program run](#run-en)
+* [Result](#results-en)
+* [For citation](#cite-en)
+
+## Содержание 
+* [Pseudomonas Analyser](#info-ru)
+* [Установка](#install-ru)
+* [Запуск программы](#run-ru)
+* [Результат](#results-ru)
+* [Для цитирования](#cite-ru)
+
 <table>
   <tr>
     <td>
-      ## Content
-      [Pseudomonas Analyser](#info-en)
-      [Installation](#install-en)
-      [Program run](#run-en)
-      [Result](#results-en)
-      [For citation](#cite-en)
-      
+		zzz1
     </td>
   </tr>
   <tr>
     <td>
-      ## Содержание 
-      [Pseudomonas Analyser](#info-ru)
-      [Установка](#install-ru)
-      [Запуск программы](#run-ru)
-      [Результат](#results-ru)
-      [Для цитирования](#cite-ru)
-	  
+      zzz2	  
     </td>
   </tr>
 </table>
