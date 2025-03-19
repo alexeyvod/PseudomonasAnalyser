@@ -15,34 +15,6 @@
 * [Результат](#results-ru)
 * [Для цитирования](#cite-ru)
 
-<table>
-  <tr>
-    <td>
-		## Content
-		* [Pseudomonas Analyser](#info-en)
-		* [Installation](#install-en)
-		* [Program run](#run-en)
-		* [Result](#results-en)
-		* [For citation](#cite-en)
-    </td>
-  </tr>
-  <tr>
-    <td>
-      ## Содержание 
-		* [Pseudomonas Analyser](#info-ru)
-		* [Установка](#install-ru)
-		* [Запуск программы](#run-ru)
-		* [Результат](#results-ru)
-		* [Для цитирования](#cite-ru)  
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
 ## <a id="info-en">**Pseudomonas Analyser**</a>
 The Pseudomonas Analyser is a program created to analyze data from whole-genome sequencing of *Pseudomonas aeruginosa* strains in order to determine it’s antigenic structure, flagellar antigen, to identify pathogenicity factors, genes determining the mucoid phenotype of the microorganism, and to determine the INDEL locus of high-resolution.
 ## <a id="install-en">**Installation**</a>
